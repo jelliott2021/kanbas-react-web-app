@@ -11,6 +11,7 @@ export default function TOC() {
         <li><Link to="/Labs/Lab5">Labs 5</Link></li>
         <li><Link to="/Labs/Lab6">Labs 6</Link></li>
         <li><Link to="/Kanbas">Kanbas</Link></li>
+        <li><a href="https://github.com/jelliott2021/kanbas-react-web-app/tree/assignment1" id="wd-repo-link" target="_blank" rel="noreferrer">Repository</a><br/></li>
       </ul>
     );
   }
